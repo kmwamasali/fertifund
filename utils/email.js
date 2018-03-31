@@ -37,15 +37,15 @@ function sendWelcomeEmail(user, host, finalCB) {
           "To": user.email,
           "TemplateId": 491642,
           "TemplateModel": {
-            "product_name": "React Redux Blog",
+            "product_name": "FertiFund",
             "name": user.name,
             "action_url": host + '/validateEmail/' + user.verifyEmailToken,
             "username": user.username,
-            "sender_name": "Redux Team",
-            'sender_name_Value': 'Raja',
-            'product_name_Value': 'React-Redux-Blog',
+            "sender_name": "FertiFund Team",
+            'sender_name_Value': 'Kamran',
+            'product_name_Value': 'FertiFund',
             "product_address_line1": "One Market",
-            "product_address_line2": "San Francisco"
+            "product_address_line2": "Netherlands"
           }
         }, done);
       }
