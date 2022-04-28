@@ -20,7 +20,7 @@
     "webpack-dev-server": "^2.9.7"
   },
   "dependencies": {
-    "async": "^2.1.4",
+    "async": "^2.6.4",
     "axios": "^0.17.1",
     "babel-preset-stage-1": "^6.16.0",
     "bcrypt": "^1.0.3",
