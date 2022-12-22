@@ -33,7 +33,7 @@
     "express": "~4.16.2",
     "express-jwt": "^5.1.0",
     "jade": "~1.11.0",
-    "jsonwebtoken": "^8.1.0",
+    "jsonwebtoken": "^9.0.0",
     "lodash": "^4.17.2",
     "mongoose": "^4.7.1",
     "mongoose-timestamp": "^0.6.0",
